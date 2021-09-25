@@ -1,0 +1,5 @@
+Command for C-Programs
+Command to create file : touch classname.c
+Command to write program : gedit classname.c
+Command to compile program : gcc classname.c -o test
+Command to get output : ./test
